@@ -1,3 +1,13 @@
+# Docker en Greenbone Vulnerability Manager
+
+## Inhoudsopgave
+- [Docker Installeren](#docker-installeren)
+- [Greenbone Vulnerability Manager Installeren](#greenbone-vulnerability-manager-installeren)
+- [Externe Toegang Configureren](#externe-toegang-configureren)
+- [Belangrijke opmerking](#belangrijke-opmerking)
+
+---
+
 ## Docker Installeren
 
 ### Stap 1: Voorbereiden van de sleutelmap
