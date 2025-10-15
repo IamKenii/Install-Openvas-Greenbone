@@ -93,7 +93,8 @@ Als je toegang wilt vanaf een andere machine, moet je de poortconfiguratie aanpa
 1. **Schakel over naar root en navigeer naar de juiste map:**
 ```bash
 sudo su
-cd
+cd    # Ga naar de global root folder
+ls    # Kijk of de folder 'greenbone-community-container' aanwezig is
 cd greenbone-community-container
 nano docker-compose.yml
 ```
