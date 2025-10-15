@@ -75,8 +75,7 @@ Na succesvolle installatie is de webinterface beschikbaar op:
 
 ---
 
-## 🌐 Externe Toegang Configureren (Optioneel)
-
+## 🌐 Externe Toegang Configureren 
 Als je toegang wilt vanaf een andere machine, moet je de poortconfiguratie aanpassen.
 
 ### Docker Compose configuratie aanpassen
