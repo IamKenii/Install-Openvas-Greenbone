@@ -1,4 +1,4 @@
-## 📦 Docker Installeren
+## Docker Installeren
 
 ### Stap 1: Voorbereiden van de sleutelmap
 
@@ -44,7 +44,7 @@ sudo apt install docker-ce docker-ce-cli containerd.io docker-compose-plugin
 
 ---
 
-## 🛡️ Greenbone Vulnerability Manager Installeren
+## Greenbone Vulnerability Manager Installeren
 
 ### Stap 1: Installatiescript downloaden
 
@@ -75,7 +75,7 @@ Na succesvolle installatie is de webinterface beschikbaar op:
 
 ---
 
-## 🌐 Externe Toegang Configureren 
+## Externe Toegang Configureren 
 Als je toegang wilt vanaf een andere machine, moet je de poortconfiguratie aanpassen.
 
 ### Docker Compose configuratie aanpassen
@@ -141,6 +141,6 @@ sudo docker ps
 
 ---
 
-## ⚠️ Belangrijke opmerking
+## Belangrijke opmerking
 
 **Het initiële ophalen van alle CVE's duurt 30 tot 60 minuten.** Wees geduldig!
